@@ -5,8 +5,7 @@ var tl = gsap.timeline({
     trigger: ".two",
     start: "0% 95%",
     end: "70% 50%",
-    scrub: true,
-    markers: true, //DEPURAÇÃO
+    scrub: true, //DEPURAÇÃO
   },
 })
 
@@ -65,7 +64,6 @@ var tl2 = gsap.timeline({
     start: "20% 95%",
     end: "45% 50%",
     scrub: true,
-    markers: true, //DEPURAÇÃO
   },
 })
 
