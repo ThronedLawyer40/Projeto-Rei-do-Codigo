@@ -35,10 +35,10 @@ body::-webkit-scrollbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
+  width: 97%;
   height: 10vh;
   z-index: 99;
-
+  margin-left: 25px;
   /*justify-content: center;
   gap: 100px;*/
 }
